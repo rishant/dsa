@@ -1,7 +1,7 @@
 # dsa
 concept and implementation using java
 
-# Hashing:
+# Hashing: https://www.youtube.com/watch?v=zeMa9sg-VJM
  - It is used for fast retrival and store value.
 
 Hashing Technics for resolve collision(टक्कर):
